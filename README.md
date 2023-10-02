@@ -35,4 +35,4 @@ Also, you can use `calculate_area()` which takes as input a parameter of type Sh
     shape_area = calculate_area(shape=some_shape)
 ---
 ## PyPi
-Here is a [link]() to pypi lib
+Here is a [link](https://pypi.org/project/square-shapez/) to pypi lib
